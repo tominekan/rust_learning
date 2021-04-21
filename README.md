@@ -6,4 +6,5 @@ These are a series of mini-projects that I am building as I continue to learn ru
 Contents:
 
 [Farenheit to Celsius](src/farenheit_to_celsius.rs)
+
 [99 bottles of beer](src/99bottles.rs)
