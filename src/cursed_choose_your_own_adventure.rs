@@ -1,4 +1,4 @@
-// Using termion (any problems?)
+// src/cursed_choose_your_own_adventure.rs
 use termion::color;
 use std::io;
 use std::process;

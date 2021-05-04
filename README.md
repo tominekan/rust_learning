@@ -7,3 +7,4 @@ Contents:
 
 - [Farenheit to Celsius](src/farenheit_to_celsius.rs)
 - [99 bottles of beer](src/99bottles.rs)
+- [Cursed Choose Your Own Adventure](src/cursed_choose_your_own_adventure.rs)

@@ -1,3 +1,4 @@
+// src/99bottles.rs
 fn main() {
     for bottle in (1..100).rev() {
         if bottle == 1 {
